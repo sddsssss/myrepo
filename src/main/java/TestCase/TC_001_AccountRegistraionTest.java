@@ -9,7 +9,7 @@ import PageObject.AccountRegistrationPage;
 import PageObject.HomePage;
 import TestBase.BaseClass;
 
-public class   extends BaseClass{
+public class   extends  BaseClass{
 	
 	@Test
 	public void TC_001_AccountRegistraionTest()
