@@ -1,0 +1,21 @@
+12:16:53.689 [main] INFO  TestCase.TC_001_AccountRegistraionTest - *******starting TC_001_AccountRegistraionTest********
+12:16:53.837 [main] INFO  TestCase.TC_001_AccountRegistraionTest - clicking my account
+12:16:55.080 [main] INFO  TestCase.TC_001_AccountRegistraionTest - registration details
+12:16:56.844 [main] INFO  TestCase.TC_001_AccountRegistraionTest - Check policy
+12:16:57.064 [main] INFO  TestCase.TC_001_AccountRegistraionTest - click button
+12:16:58.110 [main] INFO  TestCase.TC_001_AccountRegistraionTest - Check confirmation message
+12:16:58.267 [main] INFO  TestCase.TC_001_AccountRegistraionTest - *******finish TC_001_AccountRegistraionTest********
+12:20:02.530 [main] INFO  TestCase.TC_001_AccountRegistraionTest - *******starting TC_001_AccountRegistraionTest********
+12:20:02.676 [main] INFO  TestCase.TC_001_AccountRegistraionTest - clicking my account
+12:20:04.011 [main] INFO  TestCase.TC_001_AccountRegistraionTest - registration details
+12:20:05.812 [main] INFO  TestCase.TC_001_AccountRegistraionTest - Check policy
+12:20:06.033 [main] INFO  TestCase.TC_001_AccountRegistraionTest - click button
+12:20:07.208 [main] INFO  TestCase.TC_001_AccountRegistraionTest - Check confirmation message
+12:20:07.336 [main] INFO  TestCase.TC_001_AccountRegistraionTest - *******finish TC_001_AccountRegistraionTest********
+12:27:27.961 [main] INFO  TestCase.TC_001_AccountRegistraionTest - *******starting TC_001_AccountRegistraionTest********
+12:27:28.555 [main] INFO  TestCase.TC_001_AccountRegistraionTest - clicking my account
+12:27:30.114 [main] INFO  TestCase.TC_001_AccountRegistraionTest - registration details
+12:27:31.848 [main] INFO  TestCase.TC_001_AccountRegistraionTest - Check policy
+12:27:32.026 [main] INFO  TestCase.TC_001_AccountRegistraionTest - click button
+12:27:32.910 [main] INFO  TestCase.TC_001_AccountRegistraionTest - Check confirmation message
+12:27:33.043 [main] INFO  TestCase.TC_001_AccountRegistraionTest - *******finish TC_001_AccountRegistraionTest********

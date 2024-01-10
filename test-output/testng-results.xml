@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="0" passed="0">
+  <reporter-output>
+  </reporter-output>
+  <suite name="opencart by packages" duration-ms="30" started-at="2023-12-21T07:59:17Z" finished-at="2023-12-21T07:59:17Z">
+    <groups>
+    </groups>
+    <test name="Utilities" duration-ms="30" started-at="2023-12-21T07:59:17Z" finished-at="2023-12-21T07:59:17Z">
+    </test> <!-- Utilities -->
+  </suite> <!-- opencart by packages -->
+</testng-results>
